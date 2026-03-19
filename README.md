@@ -73,8 +73,7 @@
 | Telegram | [Отправить сообщение](https://telegramprime.net/telegram-contact) |
 | Discord | [Отправить сообщение](https://telegramprime.net/discord-contact) |
 | Element | [Отправить сообщение](https://telegramprime.net/element-contact) |
-| Веб (EN) | https://telegramprime.net/ |
-| Веб (RU) | https://telegramprime.com/ |
+| Веб | https://telegram-converter.com/ |
 
 ---
 
