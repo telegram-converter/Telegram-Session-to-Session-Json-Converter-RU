@@ -72,7 +72,7 @@
 | Email | manager[@]telegram-converter.com |
 | Telegram | [Отправить сообщение](https://telegram-converter.com/telegram-contact) |
 | Discord | [Отправить сообщение](https://telegram-converter.com/discord-contact) |
-| Element | [Отправить сообщение](https://telegram-converter.com/element-contact) |
+| Matrix | [Отправить сообщение](https://telegram-converter.com/matrix-contact) |
 | Веб | https://telegram-converter.com/ |
 
 ---
