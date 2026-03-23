@@ -48,7 +48,7 @@
 
 ## 📥 Скачивание
 
-- **Всегда последняя версия** – [GitHub](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-RU/releases/latest)
+- **Всегда последняя версия** – [Website](https://telegram-converter.com/downloads/stsj/ru/latest)
 
 ---
 
@@ -79,6 +79,6 @@
 
 ## ☕️ Поддержка
 
-- **Buy us a coffee** – [Click](https://nowpayments.io/donation/telegramprime)
+- **Buy us a coffee** – [Click](https://nowpayments.io/donation/mcv)
  
 Спасибо за вашу поддержку!  
